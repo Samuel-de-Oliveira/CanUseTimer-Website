@@ -1,0 +1,9 @@
+body {
+	background: #222222;
+	color: white;
+} header {
+	background: #555555;
+	font-color: white;
+} p {
+	padding: 5px;
+}
