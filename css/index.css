@@ -4,6 +4,19 @@ body {
 } header {
 	background: #555555;
 	font-color: white;
-} p {
+	padding: 3px;
+} a {
 	padding: 5px;
+	color: white;
+} h1 {
+	font-size: 25px;
+	color: #AFAFAF;
+} h2 {
+	font-size: 17px;
+	color: #AFAFAF;
+} footer {
+	padding: 10px;
+	background: #555555;
+} p {
+	text-align: justify;
 }

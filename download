@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>             
+	<meta charset="utf-8">
+	<title>CanUseTimer - Downloads</title>
+	<style>
+@import url(css/index.css);
+	</style>
+</head>
+<body>
+	<header>
+	<nav>
+		<a href="index.html">Home</a>
+			<a href="download" style="background: #333333;">Download</a>
+	</nav>
+	</header>
+	<h1>Downloads:</h1>
+	</body>
+	<footer>
+		<p>See the program repository in <a href="https://github.com/Samuel-de-Oliveira/CanUseTimer">Github!</a></p>
+	</footer>
+</html>
