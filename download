@@ -15,9 +15,16 @@
 	<a id="top" href="download" style="background: #333333;">Download</a>
 	</nav>
 	</header>
-	<h1>Downloads:</h1>
+	<h2>Downloads:</h2>
+	<strong>Windows</strong>
+	<hr>
+	<h2>Source code:</h2>
 	</body>
 	<footer>
-		<p>See the program repository in <a href="https://github.com/Samuel-de-Oliveira/CanUseTimer">Github!</a></p>
+	<h2>See the project's source:</h2>
+	<p>See the program's repository in <a href="https://github.com/Samuel-de-Oliveira/CanUseTimer">Github!</a><br>
+	See the site's repository <a href="https://github.com/Samuel-de-Oliveira/canusetimer.github.io">here.</a></p>
+	<p>Program created by: <a href="https://github.com/Samuel-de-Oliveira">Samuel de Oliveira 2021</a></p>
 	</footer>
+
 </html>
