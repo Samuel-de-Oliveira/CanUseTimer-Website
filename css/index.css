@@ -1,22 +1,30 @@
-body {
-	background: #222222;
+@font-face {
+	font-family: Exo;
+	src: url(Exo-Regular.ttf);
+} body {
+	background: #121212;
 	color: white;
-} header {
-	background: #555555;
+	font-family: Exo;
+} nav {
+	background: #444444;
 	font-color: white;
 	padding: 3px;
-} a {
-	padding: 5px;
+	font-size: 18px;
+} a { 
 	color: white;
+} a#top { 
+	padding: 6px;
 } h1 {
-	font-size: 25px;
+	font-size: 32px;
 	color: #AFAFAF;
 } h2 {
-	font-size: 17px;
+	font-size: 26px;
 	color: #AFAFAF;
 } footer {
 	padding: 10px;
-	background: #555555;
+	background: #444444;
 } p {
+	font-size: 20px;
 	text-align: justify;
+	line-height: 24px;
 }

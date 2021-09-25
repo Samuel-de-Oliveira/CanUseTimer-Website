@@ -9,9 +9,10 @@
 </head>
 <body>
 	<header>
+	<img src="https://raw.githubusercontent.com/Samuel-de-Oliveira/CanUseTimer/main/Images/CanUseTimerLogo.png"><h1 id="main">CanUseTimer</h1>
 	<nav>
-		<a href="index.html">Home</a>
-			<a href="download" style="background: #333333;">Download</a>
+	<a id="top" href="index.html">Home</a>
+	<a id="top" href="download" style="background: #333333;">Download</a>
 	</nav>
 	</header>
 	<h1>Downloads:</h1>
