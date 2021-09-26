@@ -15,7 +15,7 @@ to see it's development see the page in [Github](https://github.com/Samuel-de-Ol
 and yes you can report bugs and create forks to
 help me (For the site and the software).
 
-[**Fast link!**](https://github.com/Samuel-de-Oliveira/CanUseTimer-Web/)
+[**Fast link!**](https://samuel-de-oliveira.github.io/CanUseTimer-Web/download.html)
+
 ##### Created by: *Samuel de Oliveira 2021*
 ##### follow me for more!
-
