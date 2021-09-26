@@ -11,8 +11,10 @@
 	<header>
 	<img src="https://raw.githubusercontent.com/Samuel-de-Oliveira/CanUseTimer/main/Images/CanUseTimerLogo.png"><h1 id="main">CanUseTimer</h1>
 	<nav>
-	<a id="top" href="index.html">Home</a>
-	<a id="top" href="download" style="background: #333333;">Download</a>
+	<strong>
+	<a id="home" href="index.html" onmouseenter="animation('home')" onmouseout="exitOuther('home')">Home</a>
+	<a class="top" id="download" href="download" style='background: #333333;' onmouseenter="animation('download')" onmouseout="exitMain('download')">Download</a>
+	</strong>
 	</nav>
 	</header>
 	<h2>Downloads:</h2>
@@ -26,5 +28,5 @@
 	See the site's repository <a href="https://github.com/Samuel-de-Oliveira/canusetimer.github.io">here.</a></p>
 	<p>Program created by: <a href="https://github.com/Samuel-de-Oliveira">Samuel de Oliveira 2021</a></p>
 	</footer>
-
+	<script src="js/main.js"></script>
 </html>
