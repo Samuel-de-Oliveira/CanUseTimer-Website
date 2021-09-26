@@ -9,7 +9,7 @@
 	background: #444444;
 	font-color: white;
 	padding: 3px;
-	font-size: 18px;
+	font-size: 20px;
 } a { 
 	color: white;
 } .top { 
@@ -27,4 +27,6 @@
 	font-size: 20px;
 	text-align: justify;
 	line-height: 24px;
+} li {
+	font-size: 18px;
 }
