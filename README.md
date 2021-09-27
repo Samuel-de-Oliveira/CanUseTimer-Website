@@ -1,4 +1,4 @@
-# CanUseTimer's Website
+![Logo](https://raw.githubusercontent.com/Samuel-de-Oliveira/CanUseTimer/main/Images/CanUseTimerLogo.png) # CanUseTimer's Website
 
 ---
 ## What is this?
@@ -6,7 +6,8 @@ This is a website for the program who I'm are
 developing, the site contains all info about
 program and download links without need go to
 Github page, perfect for who don't have a Github
-profile or want enter in a site more faster.
+profile or want enter in a website more faster
+than Github.
 
 ---
 ## Can use... what?

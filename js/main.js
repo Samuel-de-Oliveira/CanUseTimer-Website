@@ -1,3 +1,4 @@
+// This code is for only animation for program \\
 function animation(id) {
 	var main = window.document.getElementById(id)
 	main.style = 'padding: 6px; background: white; color: black;'
