@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Samuel-de-Oliveira/CanUseTimer/main/Images/CanUseTimerLogo.png) # CanUseTimer's Website
+# CanUseTimer's Website ![Logo](https://raw.githubusercontent.com/Samuel-de-Oliveira/CanUseTimer/main/Images/CanUseTimerLogo.png) 
 
 ---
 ## What is this?
