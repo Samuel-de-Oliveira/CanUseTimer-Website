@@ -15,18 +15,18 @@
 } .top { 
 	padding: 6px;
 } h1 {
-	font-size: 32px;
+	font-size: 34px;
 	color: #AFAFAF;
 } h2 {
-	font-size: 26px;
+	font-size: 28px;
 	color: #AFAFAF;
 } footer {
 	padding: 10px;
 	background: #444444;
 } p {
-	font-size: 20px;
+	font-size: 22px;
 	text-align: justify;
-	line-height: 24px;
+	line-height: 26px;
 } li {
 	font-size: 18px;
 }

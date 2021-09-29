@@ -16,6 +16,12 @@ to see it's development see the page in [Github](https://github.com/Samuel-de-Ol
 and yes you can report bugs and create forks to
 help me (For the site and the software).
 
+## Last update:
+
+- The site finally have a domain: `canusetimer.xyz`;
+- Now hyperlinks dont be long, example: download.html now is download only;
+- Bug fixes.
+
 [**Fast link!**](https://samuel-de-oliveira.github.io/CanUseTimer-Web/)
 
 ##### Created by: *Samuel de Oliveira 2021*
