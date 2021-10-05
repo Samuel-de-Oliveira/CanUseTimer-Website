@@ -18,9 +18,7 @@ help me (For the site and the software).
 
 ## Last update:
 
-- The site finally have a domain: `canusetimer.xyz`;
-- Now hyperlinks dont be long, example: download.html now is download only;
-- Bug fixes.
+- New version (0.1.4.3) added in site, only for Linux.
 
 [**Fast link!**](https://samuel-de-oliveira.github.io/CanUseTimer-Web/)
 
