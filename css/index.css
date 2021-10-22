@@ -17,6 +17,11 @@
 } h1 {
 	font-size: 34px;
 	color: #AFAFAF;
+	background: #000000;
+	padding-top: 18px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	padding-right: 0px;
 } h2 {
 	font-size: 28px;
 	color: #AFAFAF;
