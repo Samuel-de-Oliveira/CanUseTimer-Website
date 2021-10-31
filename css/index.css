@@ -17,7 +17,7 @@
 } h1 {
 	font-size: 34px;
 	color: #AFAFAF;
-	background: #000000;
+	background: black;
 	padding-top: 18px;
 	padding-bottom: 10px;
 	padding-left: 0px;
@@ -34,4 +34,10 @@
 	line-height: 26px;
 } li {
 	font-size: 18px;
+} .divs {
+	display: grid;
+	grid-template-columns: auto auto auto;
+} .bgblack {
+	background: black;
+	padding: 8px;	
 }
