@@ -11,3 +11,11 @@ function exitOuther(id) {
 	var main = window.document.getElementById(id)
 	main.style = 'padding: 3px; background: #444444; color: white;'
 }
+function enterBox(id) {
+	var main = window.document.getElementById(id)
+	main.style = 'background: #333333;'
+}
+function exitBox(id) {
+	var main = window.document.getElementById(id)
+	main.style = 'background: black;'
+}
