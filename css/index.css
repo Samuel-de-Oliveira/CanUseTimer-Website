@@ -1,3 +1,6 @@
+* {
+	margin: 0;
+}
 @font-face {
 	font-family: Exo;
 	src: url(Exo-Regular.ttf);
@@ -5,39 +8,4 @@
 	background: #121212;
 	color: white;
 	font-family: Exo;
-} nav {
-	background: #444444;
-	font-color: white;
-	padding: 3px;
-	font-size: 20px;
-} a { 
-	color: white;
-} .top { 
-	padding: 6px;
-} h1 {
-	font-size: 34px;
-	color: #AFAFAF;
-	background: black;
-	padding-top: 18px;
-	padding-bottom: 10px;
-	padding-left: 0px;
-	padding-right: 0px;
-} h2 {
-	font-size: 28px;
-	color: #AFAFAF;
-} footer {
-	padding: 10px;
-	background: #444444;
-} p {
-	font-size: 22px;
-	text-align: justify;
-	line-height: 26px;
-} li {
-	font-size: 18px;
-} .divs {
-	display: grid;
-	grid-template-columns: auto auto auto;
-} .bgblack {
-	background: black;
-	padding: 8px;	
 }
