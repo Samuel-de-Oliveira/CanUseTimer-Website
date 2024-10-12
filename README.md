@@ -1,4 +1,4 @@
-# CanUseTimer's Website ![Logo](https://raw.githubusercontent.com/Samuel-de-Oliveira/CanUseTimer/main/Images/CanUseTimerLogo.png) 
+# CanUseTimer's Website ![Logo](https://raw.githubusercontent.com/Samuel-de-Oliveira/CanUseTimer/refs/heads/main/Images/CanUseTimer-Logo.png) 
 
 ---
 ## What is this?
@@ -18,4 +18,6 @@ help me (For the site and the software).
 
 Site's [**Fast link!**](https://samuel-de-oliveira.github.io/CanUseTimer-Website/)
 
-##### Created by: *Samuel de Oliveira 2021*
+> Site will be ready coming soon...
+
+##### Created by: *Samuel de Oliveira 2021 - 2024*
